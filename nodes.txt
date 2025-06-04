@@ -1,6 +1,5 @@
-vless://c7790e5a-dbc3-4b05-8d4b-7745aef4c067@152.67.125.174:443?type=ws&host=sfaa.sf123k.xyz&path=%2F%253Fed%253D2560&security=tls&sni=sfaa.sf123k.xyz&fp=randomized#%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%28SYD%29
-vless://c7790e5a-dbc3-4b05-8d4b-7745aef4c067@155.248.181.189:443?type=ws&host=sfaa.sf123k.xyz&path=%2F%253Fed%253D2560&security=tls&sni=sfaa.sf123k.xyz&fp=randomized#%E6%97%A5%E6%9C%AC%28NRT%29
-vless://c7790e5a-dbc3-4b05-8d4b-7745aef4c067@158.180.82.186:443?type=ws&host=sfaa.sf123k.xyz&path=%2F%253Fed%253D2560&security=tls&sni=sfaa.sf123k.xyz&fp=randomized#%E9%9F%A9%E5%9B%BD%28ICN%29
-vless://c7790e5a-dbc3-4b05-8d4b-7745aef4c067@152.67.99.162:443?type=ws&host=sfaa.sf123k.xyz&path=%2F%253Fed%253D2560&security=tls&sni=sfaa.sf123k.xyz&fp=randomized#%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%28SYD%29
-vless://c7790e5a-dbc3-4b05-8d4b-7745aef4c067@8.220.134.136:443?type=ws&host=sfaa.sf123k.xyz&path=%2F%253Fed%253D2560&security=tls&sni=sfaa.sf123k.xyz&fp=randomized#%E6%96%B0%E5%8A%A0%E5%9D%A1%28SIN%29
-vless://c7790e5a-dbc3-4b05-8d4b-7745aef4c067@152.70.155.147:443?type=ws&host=sfaa.sf123k.xyz&path=%2F%253Fed%253D2560&security=tls&sni=sfaa.sf123k.xyz&fp=randomized#%E7%BE%8E%E5%9B%BD%28LAX%29
+vless://c7790e5a-dbc3-4b05-8d4b-7745aef4c067@168.138.165.174:443?encryption=none&security=tls&sni=sfaa.sf123k.xyz&fp=randomized&type=ws&host=sfaa.sf123k.xyz&path=%2F%3Fed%3D2560#新加坡(SIN)
+vless://c7790e5a-dbc3-4b05-8d4b-7745aef4c067@141.147.185.63:443?encryption=none&security=tls&sni=sfaa.sf123k.xyz&fp=randomized&type=ws&host=sfaa.sf123k.xyz&path=%2F%3Fed%3D2560#日本(NRT)
+vless://c7790e5a-dbc3-4b05-8d4b-7745aef4c067@158.180.82.186:443?encryption=none&security=tls&sni=sfaa.sf123k.xyz&fp=randomized&type=ws&host=sfaa.sf123k.xyz&path=%2F%3Fed%3D2560#韩国(ICN)
+vless://c7790e5a-dbc3-4b05-8d4b-7745aef4c067@132.145.116.185:443?encryption=none&security=tls&sni=sfaa.sf123k.xyz&fp=randomized&type=ws&host=sfaa.sf123k.xyz&path=%2F%3Fed%3D2560#日本(NRT)
+vless://c7790e5a-dbc3-4b05-8d4b-7745aef4c067@168.138.50.249:443?encryption=none&security=tls&sni=sfaa.sf123k.xyz&fp=randomized&type=ws&host=sfaa.sf123k.xyz&path=%2F%3Fed%3D2560#日本(KIX)
