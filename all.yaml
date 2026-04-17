@@ -1,0 +1,232 @@
+proxies:
+    - client-fingerprint: chrome
+      ech-opts:
+        enable: true
+        query-server-name: encryptedsni.com
+      name: "\U0001F1F0\U0001F1F7KR_1|3.7MB/s"
+      network: ws
+      port: 32768
+      server: 61.72.208.162
+      servername: q40ivxuck.danfeng.qzz.io
+      skip-cert-verify: true
+      tfo: false
+      tls: true
+      type: vless
+      udp: true
+      uuid: 26524cce-d514-4014-a426-365fb266a14d
+      ws-opts:
+        early-data-header-name: Sec-WebSocket-Protocol
+        headers:
+            Host: q40ivxuck.danfeng.qzz.io
+        max-early-data: 2560
+        path: /danfeng
+    - auth: rstnnl:7ltZBmta4ahLenTIoywBy3R1Z1PV7ZGf
+      name: "\U0001F1FA\U0001F1F8US_1|1.7MB/s"
+      obfs: salamander
+      obfs-password: CvxXZnSth1bVJKGFP2cof4rI52ifHJ2W
+      password: rstnnl:7ltZBmta4ahLenTIoywBy3R1Z1PV7ZGf
+      port: 8932
+      server: nrealistic.nn-foto.ru
+      skip-cert-verify: true
+      sni: nrealistic.nn-foto.ru
+      type: hysteria2
+      udp: true
+    - client-fingerprint: chrome
+      name: "\U0001F1EC\U0001F1E7GB_1|2.1MB/s"
+      network: ws
+      port: "2053"
+      server: quick-edit.devprod.cloudflare.dev
+      servername: qgljeuqx.stream-node-us.sh21.eu.org
+      tls: true
+      type: vless
+      udp: true
+      uuid: 26524cce-d514-4014-a426-365fb266a14d
+      ws-opts:
+        headers:
+            Host: qgljeuqx.stream-node-us.sh21.eu.org
+            User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+        path: /danfeng?ed=2560
+      xudp: true
+    - client-fingerprint: firefox
+      flow: xtls-rprx-vision
+      http-opts:
+        headers: {}
+        path:
+            - /
+      name: "\U0001F1F0\U0001F1F7KR_2|2.0MB/s"
+      network: tcp
+      port: 19001
+      reality-opts:
+        public-key: UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM
+        short-id: ""
+      server: krp01.jumperservice.com
+      servername: addons.mozilla.org
+      tls: true
+      type: vless
+      udp: true
+      uuid: 455fc271-3ee2-493b-8c75-9324b4851e2f
+      xudp: true
+    - client-fingerprint: chrome
+      flow: xtls-rprx-vision
+      http-opts:
+        headers: {}
+        path:
+            - /
+      name: "\U0001F7E2\U0001F1F0\U0001F1F7[\U0001F916\U0001F4FA\U0001F3AD\U0001F3AA]_github.com/Ruk1ng001_c08dab37|582KB/s"
+      network: tcp
+      port: 19001
+      reality-opts:
+        public-key: UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM
+        short-id: ""
+      server: krp01.jumperservice.com
+      servername: addons.mozilla.org
+      tls: true
+      type: vless
+      udp: true
+      uuid: 6eeb820e-89ef-4b60-9060-ddcaea0580f0
+      xudp: true
+    - client-fingerprint: chrome
+      flow: xtls-rprx-vision
+      http-opts:
+        headers: {}
+        path:
+            - /
+      name: "\U0001F1EE\U0001F1F9IT_1|876KB/s"
+      network: tcp
+      port: "443"
+      reality-opts:
+        public-key: BX0Y46bstmUjnwvT8lPyy4ECQXMDF54LnGd5C7IA9EM
+        short-id: 0c1553316a645758
+      server: 95.110.210.161
+      servername: www.booking.com
+      tls: true
+      type: vless
+      udp: true
+      uuid: 43488128-319e-f480-64ea-0acdc712e2a8
+      xudp: true
+    - down: ""
+      fingerprint: ""
+      name: "\U0001F1F8\U0001F1ECSG_1|1.1MB/s"
+      obfs: salamander
+      obfs-password: OrT7yQQIMqcvKdet
+      password: 48b36b6a-eaa6-4843-9231-0bb8b38b5da5
+      port: "443"
+      server: sg-hy2.onetaplink.app
+      skip-cert-verify: true
+      sni: hy2-sg.onetaplink.app
+      type: hysteria2
+      up: ""
+    - down: ""
+      fingerprint: ""
+      name: "\U0001F1EB\U0001F1F7FR_1|2.3MB/s"
+      obfs: ""
+      obfs-password: ""
+      password: dongtaiwang.com
+      port: "40022"
+      server: 163.172.113.118
+      skip-cert-verify: true
+      sni: www.microsoft.com
+      type: hysteria2
+      up: ""
+    - down: ""
+      fingerprint: ""
+      name: "\U0001F1ED\U0001F1F0HK_1|3.1MB/s"
+      obfs: salamander
+      obfs-password: YmGRdMZ74sEC91FN
+      password: de8e0342-ea12-4f9d-bc2a-e62409e1913f
+      port: "20003"
+      server: zz.66jc.xyz
+      skip-cert-verify: true
+      sni: hkzz.66jc.xyz
+      type: hysteria2
+      up: ""
+    - client-fingerprint: chrome
+      name: "\U0001F1EC\U0001F1E7GB_2|1.2MB/s"
+      network: ws
+      port: 2053
+      server: www.gov.se
+      servername: qgljeuqx.stream-node-us.sh21.eu.org
+      tls: true
+      type: vless
+      udp: true
+      uuid: 26524cce-d514-4014-a426-365fb266a14d
+      ws-opts:
+        headers:
+            Host: qgljeuqx.stream-node-us.sh21.eu.org
+        path: /danfeng?ed=2560
+    - client-fingerprint: qq
+      flow: xtls-rprx-vision
+      name: "\U0001F1F3\U0001F1F1NL_1|1.2MB/s"
+      network: tcp
+      port: 443
+      reality-opts:
+        public-key: v-4etaZ9IJQ-SpP0pCL28JtH-C75P-XpFnzYV-LCvgo
+        short-id: 8ac90e6b636336f7
+      server: cdn.stuffcollections.com
+      servername: cdn.stuffcollections.com
+      tls: true
+      type: vless
+      udp: true
+      uuid: d428091c-e6eb-48f9-9a07-b44eb886ac90
+    - alpn:
+        - http/1.1
+      client-fingerprint: chrome
+      name: "\U0001F1F9\U0001F1FCTW_1|2.6MB/s"
+      network: ws
+      port: 6235
+      server: 125.227.219.98
+      servername: baidu.com
+      skip-cert-verify: true
+      tls: true
+      type: vless
+      uuid: f6ddddaf-dfd6-4134-9dae-03b93b03d149
+      ws-opts:
+        headers:
+            Host: baidu.com
+        path: /xxxxhttp
+    - cipher: none
+      name: "\U0001F1ED\U0001F1F0HK_2|712KB/s"
+      password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+      plugin: v2ray-plugin
+      plugin-opts:
+        host: ylnhh.us.ci
+        mode: websocket
+        mux: false
+        path: /14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed=2560
+        tls: true
+      port: 12126
+      server: 116.44.53.251
+      type: ss
+      udp: true
+    - alpn:
+        - http/1.1
+      client-fingerprint: chrome
+      name: "\U0001F1F9\U0001F1FCTW_2|2.7MB/s"
+      network: ws
+      port: 6235
+      server: 125.227.219.98
+      servername: baidu.com
+      skip-cert-verify: true
+      tls: true
+      type: vless
+      uuid: f6ddddaf-dfd6-4134-9dae-03b93b03d146
+      ws-opts:
+        headers:
+            Host: baidu.com
+        path: /xxxxhttp
+    - alpn:
+        - http/1.1
+      client-fingerprint: chrome
+      name: "\U0001F1F9\U0001F1FCTW_3|819KB/s"
+      network: ws
+      port: 6235
+      server: 125.227.219.98
+      servername: baidu.com
+      skip-cert-verify: true
+      tls: true
+      type: vless
+      uuid: f6ddddaf-dfd6-4134-9dae-03b93b03d147
+      ws-opts:
+        headers:
+            Host: baidu.com
+        path: /xxxxhttp
